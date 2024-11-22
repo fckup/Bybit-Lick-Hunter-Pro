@@ -1,0 +1,9 @@
+{
+    "api_key": "YOUR_API_KEY",
+    "api_secret": "YOUR_API_SECRET",
+    "symbol": "BTC/USDT",
+    "timeframe": "1m",
+    "limit": 100,
+    "sleep_interval": 60,
+    "trade_amount": 0.01
+}
